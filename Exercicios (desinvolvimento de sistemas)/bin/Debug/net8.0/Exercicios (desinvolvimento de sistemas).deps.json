@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exercicios (desinvolvimento de sistemas)/1.0.0": {
+        "runtime": {
+          "Exercicios (desinvolvimento de sistemas).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicios (desinvolvimento de sistemas)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

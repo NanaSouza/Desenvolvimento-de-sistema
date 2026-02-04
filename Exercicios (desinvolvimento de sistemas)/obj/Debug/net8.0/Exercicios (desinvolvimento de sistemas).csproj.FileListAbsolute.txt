@@ -1,0 +1,14 @@
+C:\Users\vivian.ssouza7\source\repos\Exercicios (desinvolvimento de sistemas)\Exercicios (desinvolvimento de sistemas)\bin\Debug\net8.0\Exercicios (desinvolvimento de sistemas).exe
+C:\Users\vivian.ssouza7\source\repos\Exercicios (desinvolvimento de sistemas)\Exercicios (desinvolvimento de sistemas)\bin\Debug\net8.0\Exercicios (desinvolvimento de sistemas).deps.json
+C:\Users\vivian.ssouza7\source\repos\Exercicios (desinvolvimento de sistemas)\Exercicios (desinvolvimento de sistemas)\bin\Debug\net8.0\Exercicios (desinvolvimento de sistemas).runtimeconfig.json
+C:\Users\vivian.ssouza7\source\repos\Exercicios (desinvolvimento de sistemas)\Exercicios (desinvolvimento de sistemas)\bin\Debug\net8.0\Exercicios (desinvolvimento de sistemas).dll
+C:\Users\vivian.ssouza7\source\repos\Exercicios (desinvolvimento de sistemas)\Exercicios (desinvolvimento de sistemas)\bin\Debug\net8.0\Exercicios (desinvolvimento de sistemas).pdb
+C:\Users\vivian.ssouza7\source\repos\Exercicios (desinvolvimento de sistemas)\Exercicios (desinvolvimento de sistemas)\obj\Debug\net8.0\Exercicios (desinvolvimento de sistemas).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivian.ssouza7\source\repos\Exercicios (desinvolvimento de sistemas)\Exercicios (desinvolvimento de sistemas)\obj\Debug\net8.0\Exercicios (desinvolvimento de sistemas).AssemblyInfoInputs.cache
+C:\Users\vivian.ssouza7\source\repos\Exercicios (desinvolvimento de sistemas)\Exercicios (desinvolvimento de sistemas)\obj\Debug\net8.0\Exercicios (desinvolvimento de sistemas).AssemblyInfo.cs
+C:\Users\vivian.ssouza7\source\repos\Exercicios (desinvolvimento de sistemas)\Exercicios (desinvolvimento de sistemas)\obj\Debug\net8.0\Exercicios (desinvolvimento de sistemas).csproj.CoreCompileInputs.cache
+C:\Users\vivian.ssouza7\source\repos\Exercicios (desinvolvimento de sistemas)\Exercicios (desinvolvimento de sistemas)\obj\Debug\net8.0\Exercicios (desinvolvimento de sistemas).dll
+C:\Users\vivian.ssouza7\source\repos\Exercicios (desinvolvimento de sistemas)\Exercicios (desinvolvimento de sistemas)\obj\Debug\net8.0\refint\Exercicios (desinvolvimento de sistemas).dll
+C:\Users\vivian.ssouza7\source\repos\Exercicios (desinvolvimento de sistemas)\Exercicios (desinvolvimento de sistemas)\obj\Debug\net8.0\Exercicios (desinvolvimento de sistemas).pdb
+C:\Users\vivian.ssouza7\source\repos\Exercicios (desinvolvimento de sistemas)\Exercicios (desinvolvimento de sistemas)\obj\Debug\net8.0\Exercicios (desinvolvimento de sistemas).genruntimeconfig.cache
+C:\Users\vivian.ssouza7\source\repos\Exercicios (desinvolvimento de sistemas)\Exercicios (desinvolvimento de sistemas)\obj\Debug\net8.0\ref\Exercicios (desinvolvimento de sistemas).dll
