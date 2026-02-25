@@ -1,0 +1,16 @@
+C:\Users\vivian.ssouza7\source\repos\Aula widows forms -12-02\Aula widows forms -12-02\bin\Debug\net8.0-windows\Aula widows forms -12-02.exe
+C:\Users\vivian.ssouza7\source\repos\Aula widows forms -12-02\Aula widows forms -12-02\bin\Debug\net8.0-windows\Aula widows forms -12-02.deps.json
+C:\Users\vivian.ssouza7\source\repos\Aula widows forms -12-02\Aula widows forms -12-02\bin\Debug\net8.0-windows\Aula widows forms -12-02.runtimeconfig.json
+C:\Users\vivian.ssouza7\source\repos\Aula widows forms -12-02\Aula widows forms -12-02\bin\Debug\net8.0-windows\Aula widows forms -12-02.dll
+C:\Users\vivian.ssouza7\source\repos\Aula widows forms -12-02\Aula widows forms -12-02\bin\Debug\net8.0-windows\Aula widows forms -12-02.pdb
+C:\Users\vivian.ssouza7\source\repos\Aula widows forms -12-02\Aula widows forms -12-02\obj\Debug\net8.0-windows\Aula_widows_forms__12_02.Form1.resources
+C:\Users\vivian.ssouza7\source\repos\Aula widows forms -12-02\Aula widows forms -12-02\obj\Debug\net8.0-windows\Aula widows forms -12-02.csproj.GenerateResource.cache
+C:\Users\vivian.ssouza7\source\repos\Aula widows forms -12-02\Aula widows forms -12-02\obj\Debug\net8.0-windows\Aula widows forms -12-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivian.ssouza7\source\repos\Aula widows forms -12-02\Aula widows forms -12-02\obj\Debug\net8.0-windows\Aula widows forms -12-02.AssemblyInfoInputs.cache
+C:\Users\vivian.ssouza7\source\repos\Aula widows forms -12-02\Aula widows forms -12-02\obj\Debug\net8.0-windows\Aula widows forms -12-02.AssemblyInfo.cs
+C:\Users\vivian.ssouza7\source\repos\Aula widows forms -12-02\Aula widows forms -12-02\obj\Debug\net8.0-windows\Aula widows forms -12-02.csproj.CoreCompileInputs.cache
+C:\Users\vivian.ssouza7\source\repos\Aula widows forms -12-02\Aula widows forms -12-02\obj\Debug\net8.0-windows\Aula widows forms -12-02.dll
+C:\Users\vivian.ssouza7\source\repos\Aula widows forms -12-02\Aula widows forms -12-02\obj\Debug\net8.0-windows\refint\Aula widows forms -12-02.dll
+C:\Users\vivian.ssouza7\source\repos\Aula widows forms -12-02\Aula widows forms -12-02\obj\Debug\net8.0-windows\Aula widows forms -12-02.pdb
+C:\Users\vivian.ssouza7\source\repos\Aula widows forms -12-02\Aula widows forms -12-02\obj\Debug\net8.0-windows\Aula widows forms -12-02.genruntimeconfig.cache
+C:\Users\vivian.ssouza7\source\repos\Aula widows forms -12-02\Aula widows forms -12-02\obj\Debug\net8.0-windows\ref\Aula widows forms -12-02.dll
