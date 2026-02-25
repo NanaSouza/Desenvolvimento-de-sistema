@@ -1,0 +1,16 @@
+C:\Users\vivian.ssouza7\source\repos\Atividade Windows forms -13-02\Atividade Windows forms -13-02\bin\Debug\net8.0-windows\Atividade Windows forms -13-02.exe
+C:\Users\vivian.ssouza7\source\repos\Atividade Windows forms -13-02\Atividade Windows forms -13-02\bin\Debug\net8.0-windows\Atividade Windows forms -13-02.deps.json
+C:\Users\vivian.ssouza7\source\repos\Atividade Windows forms -13-02\Atividade Windows forms -13-02\bin\Debug\net8.0-windows\Atividade Windows forms -13-02.runtimeconfig.json
+C:\Users\vivian.ssouza7\source\repos\Atividade Windows forms -13-02\Atividade Windows forms -13-02\bin\Debug\net8.0-windows\Atividade Windows forms -13-02.dll
+C:\Users\vivian.ssouza7\source\repos\Atividade Windows forms -13-02\Atividade Windows forms -13-02\bin\Debug\net8.0-windows\Atividade Windows forms -13-02.pdb
+C:\Users\vivian.ssouza7\source\repos\Atividade Windows forms -13-02\Atividade Windows forms -13-02\obj\Debug\net8.0-windows\Atividade_Windows_forms__13_02.Form1.resources
+C:\Users\vivian.ssouza7\source\repos\Atividade Windows forms -13-02\Atividade Windows forms -13-02\obj\Debug\net8.0-windows\Atividade Windows forms -13-02.csproj.GenerateResource.cache
+C:\Users\vivian.ssouza7\source\repos\Atividade Windows forms -13-02\Atividade Windows forms -13-02\obj\Debug\net8.0-windows\Atividade Windows forms -13-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivian.ssouza7\source\repos\Atividade Windows forms -13-02\Atividade Windows forms -13-02\obj\Debug\net8.0-windows\Atividade Windows forms -13-02.AssemblyInfoInputs.cache
+C:\Users\vivian.ssouza7\source\repos\Atividade Windows forms -13-02\Atividade Windows forms -13-02\obj\Debug\net8.0-windows\Atividade Windows forms -13-02.AssemblyInfo.cs
+C:\Users\vivian.ssouza7\source\repos\Atividade Windows forms -13-02\Atividade Windows forms -13-02\obj\Debug\net8.0-windows\Atividade Windows forms -13-02.csproj.CoreCompileInputs.cache
+C:\Users\vivian.ssouza7\source\repos\Atividade Windows forms -13-02\Atividade Windows forms -13-02\obj\Debug\net8.0-windows\Atividade Windows forms -13-02.dll
+C:\Users\vivian.ssouza7\source\repos\Atividade Windows forms -13-02\Atividade Windows forms -13-02\obj\Debug\net8.0-windows\refint\Atividade Windows forms -13-02.dll
+C:\Users\vivian.ssouza7\source\repos\Atividade Windows forms -13-02\Atividade Windows forms -13-02\obj\Debug\net8.0-windows\Atividade Windows forms -13-02.pdb
+C:\Users\vivian.ssouza7\source\repos\Atividade Windows forms -13-02\Atividade Windows forms -13-02\obj\Debug\net8.0-windows\Atividade Windows forms -13-02.genruntimeconfig.cache
+C:\Users\vivian.ssouza7\source\repos\Atividade Windows forms -13-02\Atividade Windows forms -13-02\obj\Debug\net8.0-windows\ref\Atividade Windows forms -13-02.dll
