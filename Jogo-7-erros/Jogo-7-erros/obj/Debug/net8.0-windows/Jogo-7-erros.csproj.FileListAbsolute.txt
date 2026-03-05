@@ -1,0 +1,16 @@
+C:\Users\vivian.ssouza7\source\repos\Jogo-7-erros\Jogo-7-erros\bin\Debug\net8.0-windows\Jogo-7-erros.exe
+C:\Users\vivian.ssouza7\source\repos\Jogo-7-erros\Jogo-7-erros\bin\Debug\net8.0-windows\Jogo-7-erros.deps.json
+C:\Users\vivian.ssouza7\source\repos\Jogo-7-erros\Jogo-7-erros\bin\Debug\net8.0-windows\Jogo-7-erros.runtimeconfig.json
+C:\Users\vivian.ssouza7\source\repos\Jogo-7-erros\Jogo-7-erros\bin\Debug\net8.0-windows\Jogo-7-erros.dll
+C:\Users\vivian.ssouza7\source\repos\Jogo-7-erros\Jogo-7-erros\bin\Debug\net8.0-windows\Jogo-7-erros.pdb
+C:\Users\vivian.ssouza7\source\repos\Jogo-7-erros\Jogo-7-erros\obj\Debug\net8.0-windows\Jogo_7_erros.Form1.resources
+C:\Users\vivian.ssouza7\source\repos\Jogo-7-erros\Jogo-7-erros\obj\Debug\net8.0-windows\Jogo-7-erros.csproj.GenerateResource.cache
+C:\Users\vivian.ssouza7\source\repos\Jogo-7-erros\Jogo-7-erros\obj\Debug\net8.0-windows\Jogo-7-erros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivian.ssouza7\source\repos\Jogo-7-erros\Jogo-7-erros\obj\Debug\net8.0-windows\Jogo-7-erros.AssemblyInfoInputs.cache
+C:\Users\vivian.ssouza7\source\repos\Jogo-7-erros\Jogo-7-erros\obj\Debug\net8.0-windows\Jogo-7-erros.AssemblyInfo.cs
+C:\Users\vivian.ssouza7\source\repos\Jogo-7-erros\Jogo-7-erros\obj\Debug\net8.0-windows\Jogo-7-erros.csproj.CoreCompileInputs.cache
+C:\Users\vivian.ssouza7\source\repos\Jogo-7-erros\Jogo-7-erros\obj\Debug\net8.0-windows\Jogo-7-erros.dll
+C:\Users\vivian.ssouza7\source\repos\Jogo-7-erros\Jogo-7-erros\obj\Debug\net8.0-windows\refint\Jogo-7-erros.dll
+C:\Users\vivian.ssouza7\source\repos\Jogo-7-erros\Jogo-7-erros\obj\Debug\net8.0-windows\Jogo-7-erros.pdb
+C:\Users\vivian.ssouza7\source\repos\Jogo-7-erros\Jogo-7-erros\obj\Debug\net8.0-windows\Jogo-7-erros.genruntimeconfig.cache
+C:\Users\vivian.ssouza7\source\repos\Jogo-7-erros\Jogo-7-erros\obj\Debug\net8.0-windows\ref\Jogo-7-erros.dll
