@@ -1,0 +1,16 @@
+C:\Users\vivian.ssouza7\source\repos\lista-windowsForms\lista-windowsForms\bin\Debug\net8.0-windows\lista-windowsForms.exe
+C:\Users\vivian.ssouza7\source\repos\lista-windowsForms\lista-windowsForms\bin\Debug\net8.0-windows\lista-windowsForms.deps.json
+C:\Users\vivian.ssouza7\source\repos\lista-windowsForms\lista-windowsForms\bin\Debug\net8.0-windows\lista-windowsForms.runtimeconfig.json
+C:\Users\vivian.ssouza7\source\repos\lista-windowsForms\lista-windowsForms\bin\Debug\net8.0-windows\lista-windowsForms.dll
+C:\Users\vivian.ssouza7\source\repos\lista-windowsForms\lista-windowsForms\bin\Debug\net8.0-windows\lista-windowsForms.pdb
+C:\Users\vivian.ssouza7\source\repos\lista-windowsForms\lista-windowsForms\obj\Debug\net8.0-windows\lista_windowsForms.Form1.resources
+C:\Users\vivian.ssouza7\source\repos\lista-windowsForms\lista-windowsForms\obj\Debug\net8.0-windows\lista-windowsForms.csproj.GenerateResource.cache
+C:\Users\vivian.ssouza7\source\repos\lista-windowsForms\lista-windowsForms\obj\Debug\net8.0-windows\lista-windowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivian.ssouza7\source\repos\lista-windowsForms\lista-windowsForms\obj\Debug\net8.0-windows\lista-windowsForms.AssemblyInfoInputs.cache
+C:\Users\vivian.ssouza7\source\repos\lista-windowsForms\lista-windowsForms\obj\Debug\net8.0-windows\lista-windowsForms.AssemblyInfo.cs
+C:\Users\vivian.ssouza7\source\repos\lista-windowsForms\lista-windowsForms\obj\Debug\net8.0-windows\lista-windowsForms.csproj.CoreCompileInputs.cache
+C:\Users\vivian.ssouza7\source\repos\lista-windowsForms\lista-windowsForms\obj\Debug\net8.0-windows\lista-windowsForms.dll
+C:\Users\vivian.ssouza7\source\repos\lista-windowsForms\lista-windowsForms\obj\Debug\net8.0-windows\refint\lista-windowsForms.dll
+C:\Users\vivian.ssouza7\source\repos\lista-windowsForms\lista-windowsForms\obj\Debug\net8.0-windows\lista-windowsForms.pdb
+C:\Users\vivian.ssouza7\source\repos\lista-windowsForms\lista-windowsForms\obj\Debug\net8.0-windows\lista-windowsForms.genruntimeconfig.cache
+C:\Users\vivian.ssouza7\source\repos\lista-windowsForms\lista-windowsForms\obj\Debug\net8.0-windows\ref\lista-windowsForms.dll
