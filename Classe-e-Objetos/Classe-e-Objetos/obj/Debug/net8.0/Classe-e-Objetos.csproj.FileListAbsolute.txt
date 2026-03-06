@@ -1,0 +1,15 @@
+C:\Users\vivian.ssouza7\source\repos\Classe-e-Objetos\Classe-e-Objetos\bin\Debug\net8.0\Classe-e-Objetos.exe
+C:\Users\vivian.ssouza7\source\repos\Classe-e-Objetos\Classe-e-Objetos\bin\Debug\net8.0\Classe-e-Objetos.deps.json
+C:\Users\vivian.ssouza7\source\repos\Classe-e-Objetos\Classe-e-Objetos\bin\Debug\net8.0\Classe-e-Objetos.runtimeconfig.json
+C:\Users\vivian.ssouza7\source\repos\Classe-e-Objetos\Classe-e-Objetos\bin\Debug\net8.0\Classe-e-Objetos.dll
+C:\Users\vivian.ssouza7\source\repos\Classe-e-Objetos\Classe-e-Objetos\bin\Debug\net8.0\Classe-e-Objetos.pdb
+C:\Users\vivian.ssouza7\source\repos\Classe-e-Objetos\Classe-e-Objetos\obj\Debug\net8.0\Classe-e-Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivian.ssouza7\source\repos\Classe-e-Objetos\Classe-e-Objetos\obj\Debug\net8.0\Classe-e-Objetos.AssemblyInfoInputs.cache
+C:\Users\vivian.ssouza7\source\repos\Classe-e-Objetos\Classe-e-Objetos\obj\Debug\net8.0\Classe-e-Objetos.AssemblyInfo.cs
+C:\Users\vivian.ssouza7\source\repos\Classe-e-Objetos\Classe-e-Objetos\obj\Debug\net8.0\Classe-e-Objetos.csproj.CoreCompileInputs.cache
+C:\Users\vivian.ssouza7\source\repos\Classe-e-Objetos\Classe-e-Objetos\obj\Debug\net8.0\Classe-e-Objetos.sourcelink.json
+C:\Users\vivian.ssouza7\source\repos\Classe-e-Objetos\Classe-e-Objetos\obj\Debug\net8.0\Classe-e-Objetos.dll
+C:\Users\vivian.ssouza7\source\repos\Classe-e-Objetos\Classe-e-Objetos\obj\Debug\net8.0\refint\Classe-e-Objetos.dll
+C:\Users\vivian.ssouza7\source\repos\Classe-e-Objetos\Classe-e-Objetos\obj\Debug\net8.0\Classe-e-Objetos.pdb
+C:\Users\vivian.ssouza7\source\repos\Classe-e-Objetos\Classe-e-Objetos\obj\Debug\net8.0\Classe-e-Objetos.genruntimeconfig.cache
+C:\Users\vivian.ssouza7\source\repos\Classe-e-Objetos\Classe-e-Objetos\obj\Debug\net8.0\ref\Classe-e-Objetos.dll
